@@ -1917,3 +1917,9 @@ textarea {
 .copyright p a:hover {
   color: #3d60f4;
 }
+
+.nal
+{
+  text-decoration: underline !important;
+  color: blue !important;
+}
